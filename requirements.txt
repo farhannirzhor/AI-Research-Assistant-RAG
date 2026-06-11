@@ -1,0 +1,7 @@
+PyPDF2
+ollama
+python-dotenv
+sentence-transformers
+scikit-learn
+numpy
+gradio
